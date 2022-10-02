@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+╭─━━━━━━━━━━━━━━━━━━━━─╮
+- # Primeiro Site (HTML)
+╰─━━━━━━━━━━━━━━━━━━━━─╯
 
-You can use the [editor on GitHub](https://github.com/MateusMSL/Primeiro-Site-HTML/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Link de Acesso para o site: *https://mateusmsl.github.io/Primeiro-Site-HTML/*
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+*Este foi um site que desenvolvi no inicio do meu aprendizado em html, a primeira atividade proposta pelo professor que precisavamos utilizar os conhecimentos das aulas teóricas e práticas*
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+•• ━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ••●•• ━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ••
 
-```markdown
-Syntax highlighted code block
+**Topo da página**
 
-# Header 1
-## Header 2
-### Header 3
+*Parte inicial da página*
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+![Topo da Página](https://user-images.githubusercontent.com/109548196/193476476-2cf9b6ca-701a-406f-8ebd-4ea6942fc015.png)
 
-[Link](url) and ![Image](src)
-```
+•• ━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ••●•• ━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ••
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+•• ━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ••●•• ━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ••
 
-### Jekyll Themes
+**Final da página**
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MateusMSL/Primeiro-Site-HTML/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+*Parte Final da página*
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+![Fim da Página](https://user-images.githubusercontent.com/109548196/193476525-3ba2cce8-69c3-4eed-9f56-434eca1647e2.png)
+
+•• ━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ••●•• ━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ••
